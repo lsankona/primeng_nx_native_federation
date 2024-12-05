@@ -8,7 +8,9 @@
     "production": [
       "default"
     ],
-    "sharedGlobals": []
+    "sharedGlobals": [
+      "{workspaceRoot}/.github/workflows/build-n-push.yml"
+    ]
   },
   "nxCloudId": "67517502d49c3040c69940ee"
 }
